@@ -4,5 +4,8 @@
   "build": {
     "location": "iran"
   },
-  "disks": []
+  "disks": [
+    "name": "sqlite",
+    "mountto": "data"
+  ]
 }
